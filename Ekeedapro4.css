@@ -1,0 +1,91 @@
+body{
+    width: 50%;
+    margin-left: 230px;
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(174, 218, 174);
+}
+#form{
+    margin-right: 60px;
+}
+.center{
+    border-radius: 30px;
+    padding: 30px;
+    height: 300px;
+    width: 650px;
+    background-color: white;
+    border-style:groove;
+    border: 2px solid rgb(49, 22, 225);
+    
+}
+.age{
+    margin-right: 200px;
+    /* margin: 10px */
+    padding: 20px;
+    
+}
+.res{
+    margin-left: 90px;
+}
+#text{
+    text-align: right;
+    border: none;
+    font-size: 20px;
+    background-color: aqua;
+    width: 70px;
+    height: 30px;
+    border-radius: 10px;
+    /* margin: 10px; */
+}
+#checkbox{
+    background-color: aqua;
+    color: aqua;
+    border: none;
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+}
+#male{
+    background-color: aqua;
+    color: aqua;
+    border: none;
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+}
+.font{
+    font-size: 20px;
+    margin: 10px;
+}
+.height{
+    padding: 20px;
+    margin-right: 130px;
+}
+#Height{
+    font-size: 22px;
+    margin: 10px;
+    width: 70px;
+    text-align: right;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: aqua;
+}
+#Weight{
+    font-size: 22px;
+    text-align: right;
+    width: 70px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 20px;
+    border: none;
+    background-color: aqua;
+}
+#submit{
+    height: 40px;
+    width: 120px;
+    margin-top: 30px;
+    border-radius: 10px;
+    background-color: rgb(87, 124, 156);
+    border: none;
+}
